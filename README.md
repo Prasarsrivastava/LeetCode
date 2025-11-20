@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Prasarsrivastava/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Prasarsrivastava/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/Prasarsrivastava/LeetCode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
